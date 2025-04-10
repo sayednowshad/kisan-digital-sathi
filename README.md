@@ -2,6 +2,37 @@
 
 # Empowering Bharat’s Farmers, Digitally — with real-time insights, AI-driven crop suggestions, and farmer-first tools.
 
+**"Krishi Ko Digital Banaye"** - A comprehensive platform empowering Indian farmers with AI, real-time data, and technology tools in regional languages.
+
+## Features (Visheshtaen) ✨
+
+- **सब्सिडी ट्रेंड्स**: AI-curated government schemes (राज्य/फसल अनुसार)
+- **भाषा समर्थन**: Hindi, Tamil, Telugu, Marathi, Bengali, Kannada
+- **मौसम अपडेट**: Live IMD weather API integration
+- **किसान बाजार**: Direct crop listing with UPI/RuPay payments
+- **AI फसल सुझाव**: Soil-test based ML recommendations
+- **मंडी भाव**: NCDEX/APMC price trends with sell-time alerts
+- **समुदाय**: Crop/region-based discussion forums
+
+## Technology Stack (Takneek) 💻
+
+| Component          | Technology                          |
+|--------------------|-------------------------------------|
+| Frontend           | React.js + Vite                     |
+| Styling            | Tailwind CSS                        |
+| Routing            | React Router DOM                    |
+| Authentication     | Firebase (Phone/OTP)                |
+| State Management   | Context API                         |
+| APIs               | Weather IMD, Mandi Prices, Bhashini |
+| Deployment         | Vercel                              |
+
+## Installation (Sthapana) 🛠️
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/digital-farmer.git
+   cd digital-farmer
+
 🔥 Project Summary
 Digital Farmer is a modern, responsive, multi-page web platform built using React + Vite, Tailwind CSS, and Firebase. It helps Indian farmers harness technology with live weather, market data, subsidies, AI suggestions, and community features — all in one place.
 
